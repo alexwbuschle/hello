@@ -1,4 +1,4 @@
-# Hello
+# Hello Wolrd on phoenix
 
 To start your Phoenix app:
 
